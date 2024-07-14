@@ -73,11 +73,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "",
-    des: "",
-    img: "",
-    iconLists: [""],
-    link: "",
+    title: "Travel Guide Website",
+    des: "Builld Completed Tour and Travel Website using ReactJS and Tailwind CSS",
+    img: "/project01.png",
+    iconLists: ["/re.svg","/tail.svg"],
+    link: "https://github.com/Nipuna-Lakruwan/Travel-Site",
   },
   {
     id: 2,

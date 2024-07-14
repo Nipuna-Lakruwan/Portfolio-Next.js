@@ -77,7 +77,7 @@ export const projects = [
     des: "Builld Completed Tour and Travel Website using ReactJS and Tailwind CSS",
     img: "/p01.png",
     iconLists: ["/re.svg","/tail.svg"],
-    link: "https://github.com/Nipuna-Lakruwan/Travel-Site",
+    link: "https://travel-site-blond.vercel.app/",
   },
   {
     id: 2,

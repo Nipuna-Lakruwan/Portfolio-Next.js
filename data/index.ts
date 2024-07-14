@@ -242,13 +242,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/nipuna-lakruwan",
   },
-  {
+  /*{
     id: 2,
     img: "/twit.svg",
-  },
+    link: "https://twitter.com/your-profile",
+  },*/
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/nipuna-lakruwan-6b740627a",
   },
 ];

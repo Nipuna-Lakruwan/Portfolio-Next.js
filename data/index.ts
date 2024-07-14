@@ -75,7 +75,7 @@ export const projects = [
     id: 1,
     title: "Travel Guide Website",
     des: "Builld Completed Tour and Travel Website using ReactJS and Tailwind CSS",
-    img: "/project01.png",
+    img: "/p01.png",
     iconLists: ["/re.svg","/tail.svg"],
     link: "https://github.com/Nipuna-Lakruwan/Travel-Site",
   },

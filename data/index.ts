@@ -83,7 +83,7 @@ export const projects = [
     id: 2,
     title: "Restaurant Website",
     des: "This project is a responsive and modern landing page for a restaurant, built using React.",
-    img: "/p02.png",
+    img: "/P02.png",
     iconLists: ["/re.svg", "/css.svg"],
     link: "https://restaurant-website-reactjs-gules.vercel.app/",
   },
